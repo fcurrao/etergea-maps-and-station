@@ -1,5 +1,7 @@
 # EtergeaFront
 
+# ESTE PROYECTO TIENE MAPAS, Y TIENE FILTROS DE BUSQUEDA. ES BASE PARA CUALQUIER TRABAJO.
+# ANGULAR, TYPESCRIPT.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
 ## Development server
